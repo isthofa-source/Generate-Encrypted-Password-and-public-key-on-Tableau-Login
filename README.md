@@ -33,6 +33,7 @@ Here I created a script using Python 3 where the script's function is only to ge
 To get the encrypted password along with the private key, we have to do the following steps:
 - Generate a **Public Key (keyId)** which we can use to encrypt our password which will be used for the login process
 - Encrypt user passwords with PKCS1 RSA encryption
+
 Where in the process of getting the public key we need the parameter values of the following:
 - The keyId
 - The modulus “n”
