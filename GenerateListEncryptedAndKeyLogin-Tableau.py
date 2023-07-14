@@ -44,7 +44,7 @@ public_key = generate_public_key()
 
 
 # List of passwords
-passwords = ["Batara.#@123", "Batara.#@123", "Batara.#@123"]
+passwords = ["PASSWORD1", "PASSWORD2", "PASSWORD3"]
 
 # Generate encrypted passwords
 encrypted_passwords = []
