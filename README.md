@@ -12,7 +12,8 @@ python GenerateEncryptPassword-Tableau.py
 Enter the desired target URL and password. Then you will get an encrypted PublicKey and Password
 ![image](https://github.com/isthofa-source/Generate-Encrypted-Password-and-public-key-on-Tableau-Login/assets/75401288/488929bf-fbf9-40ff-8f92-1f6459ab1541)
 Next try to log in (Via Repeater). And it looks like a successful login with response code 200
-![image](https://github.com/isthofa-source/Generate-Encrypted-Password-and-public-key-on-Tableau-Login/assets/75401288/dcb9217a-ee18-4267-8a6e-66d0e428052d)
+![image](https://github.com/isthofa-source/Generate-Encrypted-Password-and-public-key-on-Tableau-Login/assets/75401288/33ce86b8-3c65-44ad-8f35-03ef94acf3c6)
+
 
 ### Script File
 Run the script with command:
