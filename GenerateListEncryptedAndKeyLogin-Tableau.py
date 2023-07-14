@@ -5,7 +5,7 @@ import Crypto
 from Crypto.PublicKey import RSA
 from Crypto.Cipher import PKCS1_v1_5
 
-tab_server_url = "https://datavisualization.btn.co.id/"
+tab_server_url = "https://*.*.co.id/"
 
 def _encode_for_display(text):
     return text.encode('ascii', errors="backslashreplace").decode('utf-8')
